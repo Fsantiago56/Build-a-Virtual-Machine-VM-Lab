@@ -18,8 +18,8 @@ Download Virtual Box: <br/>
 <img src="https://i.imgur.com/BpG26ro.png" height="80%" width="80%" alt="Build a Virtual Machine (VM) Lab with VirtualBox"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set Up Virtual Box Manager:  <br/>
+<img src="https://i.imgur.com/YjQCkrq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
