@@ -26,8 +26,8 @@ Set Up First Virtual Machine: <br/>
 <img src="https://i.imgur.com/YzHXCCZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set Up Second Virtual Machine:  <br/>
+<img src="https://i.imgur.com/yquOJBx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
