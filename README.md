@@ -11,7 +11,7 @@ I created a personal IT lab using VirtualBox to set up and configure multiple op
 
 - <b>Windows 11</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Lab walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
