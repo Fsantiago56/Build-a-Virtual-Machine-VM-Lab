@@ -14,8 +14,8 @@ I created a personal IT lab using VirtualBox to set up and configure multiple op
 <h2>Lab walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Virtual Box: <br/>
+<img src="https://i.imgur.com/BpG26ro.png" height="80%" width="80%" alt="Build a Virtual Machine (VM) Lab with VirtualBox"/>
 <br />
 <br />
 Select the disk:  <br/>
