@@ -30,7 +30,7 @@ Set Up Second Virtual Machine:  <br/>
 <img src="https://i.imgur.com/yquOJBx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Practice Admin Tasks:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
