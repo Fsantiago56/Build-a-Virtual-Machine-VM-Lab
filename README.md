@@ -22,8 +22,8 @@ Set Up Virtual Box Manager:  <br/>
 <img src="https://i.imgur.com/YjQCkrq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set Up First Virtual Machine: <br/>
+<img src="https://i.imgur.com/YzHXCCZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
