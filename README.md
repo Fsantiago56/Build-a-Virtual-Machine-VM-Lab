@@ -19,23 +19,29 @@ Download Virtual Box: <br/>
 <br />
 <br />
 Set Up Virtual Box Manager:  <br/>
-<img src="https://i.imgur.com/YjQCkrq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YjQCkrq.png" height="80%" width="80%" alt="Build a Virtual Machine (VM) Lab with VirtualBox"/>
 <br />
 <br />
 Set Up First Virtual Machine: <br/>
-<img src="https://i.imgur.com/YzHXCCZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YzHXCCZ.png" height="80%" width="80%" alt="Build a Virtual Machine (VM) Lab with VirtualBox"/>
 <br />
 <br />
 Set Up Second Virtual Machine:  <br/>
-<img src="https://i.imgur.com/yquOJBx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yquOJBx.png" height="80%" width="80%" alt="Build a Virtual Machine (VM) Lab with VirtualBox"/>
 <br />
 <br />
-Practice Admin Tasks:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run System Upgrades(Patching):  <br/>
+<img src="https://i.imgur.com/6GdXJIj.png" height="80%" width="80%" alt="Build a Virtual Machine (VM) Lab with VirtualBox"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<h2>Learning Point</h2>
+Initially, I ran sudo (sudo apt update && sudo apt upgrade -y) to ensure an successful update to package index and upgraded available software packages. This ensures the system is patched, stable, and secure. Then notice I was unsure why certain packages remained unpatched, which led me to run (sudo apt full-upgrade) to ugrade all packages to their latest version.
+<br />
+<br />
+<p align="center">  
+Run Full-Upgrades: <br/>
+<img src="https://i.imgur.com/TMGaywO.png" height="80%" width="80%" alt="Build a Virtual Machine (VM) Lab with VirtualBox"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
