@@ -6,13 +6,13 @@
 I created a personal IT lab using VirtualBox to set up and configure multiple operating systems (Windows 11 and Ubuntu Linux). The goal was to gain hands-on experience with OS installation, system administration, and basic networking in a safe virtual environment..
 <br />
 
-
 <h2>Environments Used </h2>
-
 - <b>Windows 11</b> 
-
+<h2>Commands Used:</h2>
+- <b>sudo adduser labuser (creates new user account)<br />
+- <b>cat /etc/passwd | grep labuser (Verify User Exists)<br />
+- <b>sudo deluser labuser (Deletes User)<br />
 <h2>Lab walk-through:</h2>
-
 <p align="center">
 Download Virtual Box: <br/>
 <img src="https://i.imgur.com/BpG26ro.png" height="80%" width="80%" alt="Build a Virtual Machine (VM) Lab with VirtualBox"/>
@@ -34,7 +34,6 @@ Run System Upgrades(Patching):  <br/>
 <img src="https://i.imgur.com/6GdXJIj.png" height="80%" width="80%" alt="Build a Virtual Machine (VM) Lab with VirtualBox"/>
 <br />
 <br />
-
 <h2>Learning Point</h2>
 Initially, I ran sudo (sudo apt update && sudo apt upgrade -y) to ensure an successful update to package index and upgraded available software packages. This ensures the system is patched, stable, and secure. Then notice I was unsure why certain packages remained unpatched, which led me to run (sudo apt full-upgrade) to ugrade all packages to their latest version.
 <br />
@@ -44,8 +43,16 @@ Run Full-Upgrades: <br/>
 <img src="https://i.imgur.com/TMGaywO.png" height="80%" width="80%" alt="Build a Virtual Machine (VM) Lab with VirtualBox"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a User in Linux:  <br/>
+<img src="https://i.imgur.com/HaHg7fJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+Verify the User Exists:  <br/>
+<img src="https://i.imgur.com/Ov5EOk3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+Delete the User(Clean Up):  <br/>
+<img src="https://i.imgur.com/8KDdW3E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
