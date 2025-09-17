@@ -62,6 +62,13 @@ Conducting Basic Network Checks:  <br/>
 <br/>
 Displaying routing:  <br/>
 <img src="https://i.imgur.com/XDBjo8m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+Test Network to ensure internet connection exists:  <br/>
+<img src="https://i.imgur.com/yWxIqrQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+Ping DNS Resolution to check for any DNS issues:  <br/>
+<img src="https://i.imgur.com/oYojo40.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/><!--
  ```diff
 - text in red
