@@ -14,6 +14,14 @@ I created a personal IT lab using VirtualBox to set up and configure multiple op
 - <b>sudo deluser labuser (Deletes User)<br />
 - <b>ip addr show (Shows Network addresses)<br />
 - <b>ip route (Displays Routing)<br />
+- <b>ping -c 4 'insert IP Address' (Test internet connection)<br />
+- <b>ping -c 4 'insert website' (Test DNS resolution)<br />
+- <b>sudo apt install ufw -y (Install UFW)<br />
+- <b>sudo ufw status (Check Firewall status)<br />
+- <b>sudo enable ufw enable (Enable Firewall)<br />
+- <b>sudo ufw allow 80/tcp (Allow HTTP Traffic)<br />
+- <b>sudo apt install apache2 -y (Install Apache) <br />
+- <b>sudo systemctl status apache2 (Verifying Apache is running)<br />
 <h2>Lab walk-through:</h2>
 <p align="center">
 Download Virtual Box: <br/>
