@@ -12,6 +12,8 @@ I created a personal IT lab using VirtualBox to set up and configure multiple op
 - <b>sudo adduser labuser (creates new user account)<br />
 - <b>cat /etc/passwd | grep labuser (Verify User Exists)<br />
 - <b>sudo deluser labuser (Deletes User)<br />
+- <b>ip addr show (Shows Network addresses)<br />
+- <b>ip route (Displays Routing)<br />
 <h2>Lab walk-through:</h2>
 <p align="center">
 Download Virtual Box: <br/>
@@ -53,9 +55,14 @@ Verify the User Exists:  <br/>
 <br/>
 Delete the User(Clean Up):  <br/>
 <img src="https://i.imgur.com/8KDdW3E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
+<br/>
+Conducting Basic Network Checks:  <br/>
+<img src="https://i.imgur.com/VKhQsNC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+Displaying routing:  <br/>
+<img src="https://i.imgur.com/XDBjo8m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/><!--
  ```diff
 - text in red
 + text in green
