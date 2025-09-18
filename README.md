@@ -77,7 +77,18 @@ Test Network to ensure internet connection exists:  <br/>
 <br/>
 Ping DNS Resolution to check for any DNS issues:  <br/>
 <img src="https://i.imgur.com/oYojo40.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/><!--
+<br/>
+Installation of Uncomplicated Firewall:  <br/>
+<img src="https://i.imgur.com/8nX05Mc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+Check Firewall Status:  <br/>
+<img src="https://i.imgur.com/eSjxqwl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+Enable FIrewall, Allow Web Traffic, and Reverify Firewall Status:  <br/>
+<img src="https://i.imgur.com/bMPoYD5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
+ 
  ```diff
 - text in red
 + text in green
