@@ -8,6 +8,7 @@ I created a personal IT lab using VirtualBox to set up and configure multiple op
 
 <h2>Environments Used </h2>
 - <b>Windows 11</b> 
+<br />
 - <b>Unbuntu</b> 
 <h2>Commands Used:</h2>
 - <b>sudo adduser labuser (creates new user account)<br />
