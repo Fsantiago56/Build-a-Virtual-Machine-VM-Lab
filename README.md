@@ -9,7 +9,9 @@ I created a personal IT lab using VirtualBox to set up and configure multiple op
 <h2>Environments Used </h2>
 - <b>Windows 11</b> 
 <br />
-- <b>Unbuntu</b> 
+- <b>Unbuntu</b>
+<br />
+- <b>Oracle Virtual Box</b> 
 <h2>Commands Used:</h2>
 - <b>sudo adduser labuser (creates new user account)<br />
 - <b>cat /etc/passwd | grep labuser (Verify User Exists)<br />
